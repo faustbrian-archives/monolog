@@ -9,7 +9,7 @@
 ## Installation
 
 ```bash
-yarn add @vendor/common-logger
+yarn add @faustbrian/common-logger
 ```
 
 ## Testing
