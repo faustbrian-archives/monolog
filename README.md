@@ -1,15 +1,15 @@
-# common-logger
+# @logks/logks
 
 > A common interface for reusable Logger implementations in TypeScript.
 
-[![Latest Version](https://badgen.now.sh/npm/v/@faustbrian/common-logger)](https://www.npmjs.com/package/@faustbrian/common-logger)
-[![Node Engine](https://badgen.now.sh/npm/node/@faustbrian/common-logger)](https://www.npmjs.com/package/@faustbrian/common-logger)
+[![Latest Version](https://badgen.now.sh/npm/v/@logks/logks)](https://www.npmjs.com/package/@logks/logks)
+[![Node Engine](https://badgen.now.sh/npm/node/@logks/logks)](https://www.npmjs.com/package/@logks/logks)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 ## Installation
 
 ```bash
-yarn add @faustbrian/common-logger
+yarn add @logks/logks
 ```
 
 ## Testing

@@ -1,14 +1,14 @@
 {
-	"name": "@faustbrian/common-logger",
+	"name": "@logks/logks",
 	"version": "0.1.0",
 	"description": "A common interface for reusable Logger implementations in TypeScript.",
-	"homepage": "https://github.com/faustbrian/common-logger",
+	"homepage": "https://github.com/logks/logks",
 	"bugs": {
-		"url": "https://github.com/faustbrian/common-logger/issues"
+		"url": "https://github.com/logks/logks/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:faustbrian/common-logger.git"
+		"url": "git@github.com:logks/logks.git"
 	},
 	"license": "MIT",
 	"author": "Brian Faust <hello@basecode.sh>",
