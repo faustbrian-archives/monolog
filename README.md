@@ -4,7 +4,7 @@
 
 [![Latest Version](https://badgen.now.sh/npm/v/@logks/logks)](https://www.npmjs.com/package/@logks/logks)
 [![Node Engine](https://badgen.now.sh/npm/node/@logks/logks)](https://www.npmjs.com/package/@logks/logks)
-[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/)
+[![License: MPL-2.0](https://badgen.now.sh/badge/license/MPL-2.0/green)](https://mozilla.org/MPL/2.0/) [![Greenkeeper badge](https://badges.greenkeeper.io/logks/logks.svg)](https://greenkeeper.io/)
 
 ## Installation
 
